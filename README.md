@@ -1,4 +1,10 @@
-## Hi there 👋
+### Hi there, Nice to Meet You👋
+
+I am Hilmi Musyafa, a Beginner Developer who focuses on Back-end development. Also, I am interested in Mobile Programming, and Machine Learning. I have 2 years of experience in Networking, and Linux for Supporting my Back-End Career. Currently, I am studying Back-End such as JavaScript Programming Language, Cloud, and Application Service Model. The languages ​​I often use are Go Language, Python, and JavaScript for Back-End.
+
+- 📕 Know me as an Informatics Student at Telkom University 
+- 💻 Now, Research Assistant in Adaptive Network Laboratory Division Cloud
+- 👜 Developing on WorthEveryPenny
 
 <!--
 **hilmimusyafa/hilmimusyafa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
